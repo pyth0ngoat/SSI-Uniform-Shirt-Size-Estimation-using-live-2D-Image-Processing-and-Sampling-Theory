@@ -1,0 +1,5 @@
+data/photos_raw/
+data/photos_blurred/
+data/raw/*PRN*
+outputs/logs/
+

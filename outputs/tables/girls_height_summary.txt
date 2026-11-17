@@ -1,0 +1,3 @@
+Girls model not fitted: see model_not_fitted_GIRLS.md
+Mean: 157.58
+SD: 4.88

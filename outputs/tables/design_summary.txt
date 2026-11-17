@@ -1,0 +1,8 @@
+Population: Symbiosis Statistical Institute MSc Statistics students
+Sampling unit: one student
+Sampling frame: the batch-wise student lists
+Method: stratified, strata = category, SRSWOR within strata, reserve list used in pre-drawn order
+
+Population N: 257 (Boys 132, Girls 125)
+Sample n (consented): 69 (Boys 43, Girls 26)
+Sampling fraction f: Boys 32.6%, Girls 20.8%

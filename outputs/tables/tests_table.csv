@@ -1,0 +1,13 @@
+test,stat,pval,df
+Fisher exact category x (size <= 36),5.098039215686274,0.003066516140365852,
+mc_chi2 category x band,20.316190676628434,0.007,
+Welch t-test height BOYS vs GIRLS,13.723219715745813,2.306109733646469e-20,61.37818851952265
+Cohen's d height,3.2353271256963096,,
+Mann-Whitney height,1110.0,8.912277954557839e-12,
+Spearman height vs size BOYS,0.529010489765238,0.00026518078442218336,
+Spearman height vs size GIRLS,0.5354975988269036,0.004814075925281157,
+Binomial 'just right' == 0.5 BOYS,0.6511627906976745,0.0659940344557981,
+Binomial 'just right' == 0.5 GIRLS,0.5769230769230769,0.557197093963623,
+mc_chi2 category x clothing,7.016945306745238,0.6066,
+fisher QC fail x category,,1.0,
+mc_chi2 QC fail x clothing,3.3612132352941173,0.8185,

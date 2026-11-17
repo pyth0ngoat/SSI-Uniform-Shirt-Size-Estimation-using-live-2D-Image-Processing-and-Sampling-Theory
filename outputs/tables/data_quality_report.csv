@@ -1,0 +1,18 @@
+code,field,problem,severity
+P003,chest,Chest diff > max,WARNING
+P008,chest,Chest diff > max,WARNING
+P020,chest,Chest diff > max,WARNING
+P022,timestamp,Earlier than previous row,WARNING
+P023,chest,Chest diff > max,WARNING
+P027,chest,Chest diff > max,WARNING
+P028,chest,Chest diff > max,WARNING
+P030,chest,Chest diff > max,WARNING
+P034,timestamp,Earlier than previous row,WARNING
+P043,timestamp,Earlier than previous row,WARNING
+P054,timestamp,Date does not match session 6th October,WARNING
+P055,timestamp,Date does not match session 6th October,WARNING
+P056,timestamp,Date does not match session 6th October,WARNING
+P057,timestamp,Earlier than previous row,WARNING
+P060,timestamp,Earlier than previous row,WARNING
+P071,chest,Chest diff > max,WARNING
+P076,timestamp,Earlier than previous row,WARNING

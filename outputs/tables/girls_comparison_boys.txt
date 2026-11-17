@@ -1,0 +1,15 @@
+Girls model not fitted: see model_not_fitted_GIRLS.md
+Extracted from S6 Tests:
+                                test        stat         pval        df
+Fisher exact category x (size <= 36)    5.098039 3.066516e-03       NaN
+             mc_chi2 category x band   20.316191 7.000000e-03       NaN
+   Welch t-test height BOYS vs GIRLS   13.723220 2.306110e-20 61.378189
+                    Cohen's d height    3.235327          NaN       NaN
+                 Mann-Whitney height 1110.000000 8.912278e-12       NaN
+        Spearman height vs size BOYS    0.529010 2.651808e-04       NaN
+       Spearman height vs size GIRLS    0.535498 4.814076e-03       NaN
+   Binomial 'just right' == 0.5 BOYS    0.651163 6.599403e-02       NaN
+  Binomial 'just right' == 0.5 GIRLS    0.576923 5.571971e-01       NaN
+         mc_chi2 category x clothing    7.016945 6.066000e-01       NaN
+           fisher QC fail x category         NaN 1.000000e+00       NaN
+          mc_chi2 QC fail x clothing    3.361213 8.185000e-01       NaN

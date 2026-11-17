@@ -1,0 +1,90 @@
+rows_total: 78
+consented: 69
+refused: 9
+under18: 0
+consented_by_category:
+  BOYS: 43
+  GIRLS: 26
+consented_by_batch:
+  BSC_1: 16
+  BSC_2: 4
+  BSC_3: 15
+  BSC_4: 1
+  MSC_1: 33
+  MSC_2: 0
+boys_by_batch:
+  BSC_1: 11
+  BSC_2: 3
+  BSC_3: 12
+  BSC_4: 1
+  MSC_1: 16
+  MSC_2: 0
+girls_by_batch:
+  BSC_1: 5
+  BSC_2: 1
+  BSC_3: 3
+  BSC_4: 0
+  MSC_1: 17
+  MSC_2: 0
+size_counts_boys:
+  32: 3
+  34: 4
+  36: 10
+  38: 10
+  40: 4
+  42: 9
+  44: 3
+  46: 0
+size_counts_girls:
+  32: 13
+  34: 5
+  36: 2
+  38: 2
+  40: 2
+  42: 2
+  44: 0
+  46: 0
+height_mean:
+  BOYS: 175.81
+  GIRLS: 157.58
+welch_t_height: 13.72
+welch_df: 61.4
+spearman_height_size:
+  BOYS: 0.529
+  GIRLS: 0.535
+how_in_consented:
+  primary: 38
+  reserve: 31
+tape_rows: 19
+tape_chart_sizes:
+  P003: 34
+  P008: 36
+  P013: 38
+  P020: 34
+  P021: 38
+  P023: 36
+  P025: 42
+  P027: 38
+  P028: 38
+  P030: 38
+  P039: 36
+  P043: 38
+  P044: 38
+  P052: 32
+  P070: 42
+  P071: 38
+  P075: 42
+  P077: 32
+  P078: 42
+tape_exact: 6
+tape_within_one: 12
+tape_qwk: 0.621
+frame_N_by_category:
+  BOYS: 132
+  GIRLS: 125
+kish_deff: 1.051
+
+
+accepted_by_category:
+  BOYS: 42
+  GIRLS: 26

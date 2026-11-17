@@ -1,0 +1,58 @@
+seed: 20260929
+categories:
+  - BOYS
+  - GIRLS
+batches:
+  - BSC_1
+  - BSC_2
+  - BSC_3
+  - BSC_4
+  - MSC_1
+  - MSC_2
+sessions:
+  - "1st October"
+  - "5th October"
+  - "6th October"
+sizes: [32, 34, 36, 38, 40, 42, 44, 46]
+bands:
+  "32-34": [32, 34]
+  "36-38": [36, 38]
+  "40-42": [40, 42]
+  "44-46": [44, 46]
+min_class_n: 10
+min_category_n: 40
+gate:
+  not_fit_below: 30
+  fit_class_min: 15
+height_range: [130, 210]
+chest_range: [60, 140]
+tape_pair_max_diff_cm: 1.5
+cv:
+  folds: 5
+  repeats: 20
+  bootstrap: 1000
+  permutations: 2000
+models:
+  ridge_alpha: 1.0
+  rf:
+    n_estimators: 300
+    max_depth: 3
+    min_samples_leaf: 3
+qc:
+  min_sharpness: 0
+  brightness: [0, 255]
+  body_height_fraction: [0.60, 0.95]
+  max_shoulder_tilt_deg: 5
+  min_landmark_visibility: 0.5
+pilot_codes: []
+report_limits:
+  acknowledgement: [150, 200]
+  introduction: [200, 250]
+  challenges_min: 100
+  future_scope_min: 100
+  questionnaire_items: [12, 15]
+  sample_min: 50
+
+model_choice_rule: 'the simplest model whose mean metric is within one SE of the best'
+chosen_model: M2
+chosen_model: M2

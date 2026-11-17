@@ -1,0 +1,8 @@
+Girls model not fitted: see model_not_fitted_GIRLS.md
+ Size  Count
+ 32.0     13
+ 34.0      5
+ 36.0      2
+ 38.0      2
+ 40.0      2
+ 42.0      2

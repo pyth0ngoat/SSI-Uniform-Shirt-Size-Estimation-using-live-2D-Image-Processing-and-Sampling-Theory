@@ -1,0 +1,4 @@
+sensitivity,exact_size_accuracy
+exclude_loose_or_heavy,0.17857142857142855
+exclude_pilot,0.20833333333333334
+fit_rating_3_only,0.22407407407407404

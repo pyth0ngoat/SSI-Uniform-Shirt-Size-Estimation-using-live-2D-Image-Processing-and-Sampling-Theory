@@ -1,0 +1,20 @@
+code,category,batch,clothing,chest1_cm,chest2_cm,mean_chest_cm,mean_chest_in,chest_diff_abs,chart_up,chart_down,reported_size,diff_steps,exact_match,within_one_step,fit_rating
+P003,BOYS,MSC_1,Regular top or shirt,87.0,89.0,88.0,34.645669291338585,2.0,34,34,38.0,2.0,False,False,4.0
+P008,BOYS,MSC_1,Plain fitted top,88.0,90.0,89.0,35.039370078740156,2.0,36,36,34.0,-1.0,False,True,2.0
+P013,GIRLS,MSC_1,Loose top or hoodie,96.0,96.0,96.0,37.79527559055118,0.0,38,38,36.0,-1.0,False,True,2.0
+P020,BOYS,BSC_3,Regular top or shirt,89.0,87.0,88.0,34.645669291338585,2.0,34,34,36.0,1.0,False,True,3.0
+P021,BOYS,MSC_1,Regular top or shirt,95.0,94.0,94.5,37.204724409448815,1.0,38,38,34.0,-2.0,False,False,1.0
+P023,BOYS,MSC_1,Regular top or shirt,91.0,93.0,92.0,36.22047244094488,2.0,36,36,32.0,-2.0,False,False,3.0
+P025,BOYS,MSC_1,Regular top or shirt,107.0,107.0,107.0,42.125984251968504,0.0,42,42,42.0,0.0,True,True,3.0
+P027,BOYS,MSC_1,Regular top or shirt,95.0,97.0,96.0,37.79527559055118,2.0,38,38,38.0,0.0,True,True,3.0
+P028,BOYS,BSC_3,Regular top or shirt,95.0,98.0,96.5,37.99212598425197,3.0,38,38,36.0,-1.0,False,True,2.0
+P030,BOYS,MSC_1,Regular top or shirt,97.0,95.0,96.0,37.79527559055118,2.0,38,38,42.0,2.0,False,False,3.0
+P039,BOYS,MSC_1,Regular top or shirt,91.0,90.0,90.5,35.62992125984252,1.0,36,36,36.0,0.0,True,True,3.0
+P043,BOYS,MSC_1,Plain fitted top,97.0,98.0,97.5,38.38582677165354,1.0,38,38,36.0,-1.0,False,True,4.0
+P044,BOYS,MSC_1,Loose top or hoodie,96.0,96.0,96.0,37.79527559055118,0.0,38,38,32.0,-3.0,False,False,2.0
+P052,GIRLS,MSC_1,SSI uniform shirt,83.0,82.0,82.5,32.48031496062992,1.0,32,32,32.0,0.0,True,True,3.0
+P070,BOYS,BSC_3,Loose top or hoodie,109.0,109.0,109.0,42.91338582677165,0.0,42,42,42.0,0.0,True,True,2.0
+P071,BOYS,BSC_3,Regular top or shirt,101.0,97.0,99.0,38.976377952755904,4.0,38,38,42.0,2.0,False,False,4.0
+P075,BOYS,BSC_3,Regular top or shirt,107.0,107.0,107.0,42.125984251968504,0.0,42,42,40.0,-1.0,False,True,4.0
+P077,BOYS,BSC_3,Regular top or shirt,80.0,81.0,80.5,31.69291338582677,1.0,32,32,36.0,2.0,False,False,3.0
+P078,BOYS,BSC_3,Regular top or shirt,108.0,108.0,108.0,42.51968503937008,0.0,42,42,42.0,0.0,True,True,5.0

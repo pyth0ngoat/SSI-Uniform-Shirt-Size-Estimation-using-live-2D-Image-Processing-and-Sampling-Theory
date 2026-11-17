@@ -1,0 +1,21 @@
+n = 19 is below the target of 40; the subset was not drawn by SRS; some readings were taken over clothing; results are exploratory
+
+Total rows: 19
+Exact match: 6 of 19 (31.6%), 95% CI: [15.4%, 54.0%]
+Within one step: 12 of 19 (63.2%), 95% CI: [41.0%, 80.9%]
+Quadratic weighted kappa: 0.621, 95% CI: [0.192, 0.807]
+Mean signed diff in steps: -0.16
+Mean absolute diff in steps: 1.11
+Spearman correlation: 0.603
+Pairs differing by > 1.5 cm: 8
+Technical error of measurement (cm): 1.19
+
+Sensitivity (excluding P013, P044, P070, n=16):
+Exact: 5 of 16 (31.2%), 95% CI: [14.2%, 55.6%]
+Within one: 10 of 16 (62.5%), 95% CI: [38.6%, 81.5%]
+
+Boys only (n=17):
+Exact: 5 of 17 (29.4%), 95% CI: [13.3%, 53.1%]
+Within one: 10 of 17 (58.8%), 95% CI: [36.0%, 78.4%]
+
+Reported size and the chart size from tape agree exactly for about a third of tested students; this agreement bounds how well any model trained on reported size can recommend the right size.

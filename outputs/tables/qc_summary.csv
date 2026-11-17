@@ -1,0 +1,11 @@
+category,clothing,qc_final,count
+BOYS,Loose top or hoodie,False,1
+BOYS,Loose top or hoodie,True,8
+BOYS,Plain fitted top,True,3
+BOYS,Regular top or shirt,True,25
+BOYS,SSI uniform shirt,True,6
+GIRLS,Jacket or heavy layer,True,1
+GIRLS,Loose top or hoodie,True,7
+GIRLS,Plain fitted top,True,6
+GIRLS,Regular top or shirt,True,9
+GIRLS,SSI uniform shirt,True,3

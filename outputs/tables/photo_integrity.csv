@@ -1,0 +1,6 @@
+code,field,problem,severity
+P035,phash,Near-duplicate of P024,WARNING
+P035,phash,Near-duplicate of P031,WARNING
+P057,phash,Near-duplicate of P047,WARNING
+P059,phash,Near-duplicate of P050,WARNING
+P061,phash,Near-duplicate of P060,WARNING

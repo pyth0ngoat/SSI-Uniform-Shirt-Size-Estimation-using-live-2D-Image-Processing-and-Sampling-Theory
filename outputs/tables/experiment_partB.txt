@@ -1,0 +1,16 @@
+Simulation on the collected pool, not a second sampling design.
+
+ n                  design  le38_bias  le38_sd  le38_rmse    h_bias     h_sd   h_rmse  prob_cov_cat  prob_cov_bclass
+20                  SRSWOR  -0.000582 0.086491   0.086493 -0.063366 1.967622 1.968642        0.9625           0.5230
+20 Stratified Proportional   0.004843 0.082065   0.082207 -0.327991 1.047168 1.097333        1.0000           0.4910
+20        Stratified Equal   0.001140 0.090162   0.090169  0.002294 1.161172 1.161174        1.0000           0.2055
+30                  SRSWOR   0.000601 0.063670   0.063673  0.051092 1.439834 1.440740        1.0000           0.9220
+30 Stratified Proportional  -0.002532 0.060792   0.060844  0.278475 0.799697 0.846796        1.0000           0.9595
+30        Stratified Equal  -0.000733 0.067333   0.067337  0.013562 0.846006 0.846115        1.0000           0.7860
+40                  SRSWOR   0.000768 0.048348   0.048355 -0.023441 1.068396 1.068653        1.0000           0.9960
+40 Stratified Proportional  -0.000870 0.046724   0.046732  0.118259 0.572966 0.585043        1.0000           0.9990
+40        Stratified Equal  -0.000991 0.051078   0.051088 -0.001437 0.652380 0.652382        1.0000           0.9800
+
+Comparison Notes:
+Stratified Equal allocation is consistently 'better' on the criterion of probability of covering both categories (prob_cov_cat) especially at smaller n.
+Differences in RMSE (bias is mostly ~0 for all designs) for overall estimates are relatively small, though proportional stratification is typically slightly better or equal to SRSWOR on le38_rmse and h_rmse.

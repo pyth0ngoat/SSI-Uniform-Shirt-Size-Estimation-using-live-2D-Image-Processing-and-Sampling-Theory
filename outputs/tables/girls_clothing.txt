@@ -1,0 +1,7 @@
+Girls model not fitted: see model_not_fitted_GIRLS.md
+             Clothing  Count
+Jacket or heavy layer      1
+  Loose top or hoodie      7
+     Plain fitted top      6
+ Regular top or shirt      9
+    SSI uniform shirt      3

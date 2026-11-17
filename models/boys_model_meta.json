@@ -1,0 +1,20 @@
+{
+  "training_size": 42,
+  "date": "2026-10-07",
+  "status_banner": "Status: FIT (n=42)",
+  "features": [
+    "shoulder_w",
+    "shoulder_w_sil",
+    "chest_w_sil",
+    "waist_w_sil",
+    "hip_w_sil",
+    "torso_len",
+    "arm_len",
+    "leg_len",
+    "area_ratio",
+    "ratio_chest_hip",
+    "ratio_shoulder_torso",
+    "ratio_waist_chest"
+  ],
+  "model_type": "M1 (Ridge regression on image features)"
+}

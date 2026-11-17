@@ -1,0 +1,8 @@
+Girls model not fitted: see model_not_fitted_GIRLS.md
+Batch  Sample  Expected
+BSC_1       5     2.288
+BSC_2       1     5.824
+BSC_3       3     4.160
+BSC_4       0     3.328
+MSC_1      17     5.824
+MSC_2       0     4.576

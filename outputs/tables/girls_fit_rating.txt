@@ -1,0 +1,6 @@
+Girls model not fitted: see model_not_fitted_GIRLS.md
+ Fit Rating  Count
+        1.0      2
+        2.0      2
+        3.0     15
+        4.0      7

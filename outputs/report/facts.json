@@ -1,0 +1,12 @@
+{
+  "n_total": 78,
+  "n_boys": 43,
+  "n_girls": 26,
+  "refusals": 9,
+  "deff": 1.05,
+  "tape_exact": 6,
+  "tape_within_one": 12,
+  "kappa": 0.621,
+  "best_model_metric": 0.811,
+  "weights": "Calculated as N_h / n_h"
+}
